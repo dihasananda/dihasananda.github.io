@@ -4,10 +4,10 @@
 Mojokerto, ID
 
 ## Contact
-- Phone number (Whatsapp): [+62 857 3099 3401][https://wa.me/6285730993401]
-- email: [dihasananda@gmail.com][mailto:dihasananda@gmail.com]
-- linkedin: [/dihasananda][https://linkedin.com/in/dihasananda]
-- github: [/dihasananda][https://github.com/dihasananda]
+- Phone number (Whatsapp): [+62 857 3099 3401](https://wa.me/6285730993401)
+- email: [dihasananda@gmail.com](mailto:dihasananda@gmail.com)
+- linkedin: [/dihasananda](https://linkedin.com/in/dihasananda)
+- github: [/dihasananda](https://github.com/dihasananda)
 
 ## Education
 - Institut Teknologi Sepuluh Nopember
@@ -20,7 +20,7 @@ Mojokerto, ID
 - Administrator - Sandalku.id
   - 2020 - 2022
 
-## skill
+## Skill
 - Soft Skill
   - Fast Learner
   - Highly Curiousity
